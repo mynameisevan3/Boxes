@@ -1,0 +1,7 @@
+# Ignore Build Directory
+build
+
+# Ignore Any Executables
+bin/*
+
+# Expand to Include Text Executables and Libraries if Necessary
